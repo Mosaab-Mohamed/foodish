@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bb9aca48.css",
+    "main.js": "./static/js/main.dea16fe8.js",
+    "static/media/wishlist-banner.jpg": "./static/media/wishlist-banner.38c4ab0ae14b612a1ab1.jpg",
+    "static/media/order-confirmed.jpg": "./static/media/order-confirmed.af51b8ec57e6e5a1019a.jpg",
+    "static/media/under-prepare.png": "./static/media/under-prepare.cf338b205baca53097fb.png",
+    "static/media/banner.jpg": "./static/media/banner.72f86fae999b3d86fc37.jpg",
+    "static/media/review-order.png": "./static/media/review-order.358261ba20f4ae6b4844.png",
+    "static/media/noResults.png": "./static/media/noResults.123fab89addf6dbe9c15.png",
+    "static/media/delivered.png": "./static/media/delivered.7c6c2c3cea884bd36b34.png",
+    "static/media/confirm-order.png": "./static/media/confirm-order.9822f954ef7d4aa146c2.png",
+    "static/media/onWay.png": "./static/media/onWay.bb5fb9abd29f669428a0.png",
+    "static/media/orders-banner.jpg": "./static/media/orders-banner.fda56c4ef929fcf7532a.jpg",
+    "static/media/illustration-login.png": "./static/media/illustration-login.8fc18516c8d393f9b8c8.png",
+    "static/media/error.png": "./static/media/error.b820ad669a4c2663db56.png",
+    "static/media/contact-info.png": "./static/media/contact-info.857d071d4bbe9fa27b2e.png",
+    "static/media/auth-banner.png": "./static/media/auth-banner.b9e47412f1054f6cecc5.png",
+    "static/media/contact-banner.jpg": "./static/media/contact-banner.092d8a6066a27d51841b.jpg",
+    "static/media/MarckScript-Regular.woff": "./static/media/MarckScript-Regular.1c4de750b51df3679bbb.woff",
+    "static/media/cart-banner.jpg": "./static/media/cart-banner.27a534636a20a56b2922.jpg",
+    "static/media/SplineSansMono-Regular.woff": "./static/media/SplineSansMono-Regular.9b724cf9501ef845d43a.woff",
+    "static/media/SplineSansMono-Bold.woff": "./static/media/SplineSansMono-Bold.4991ab173eabb5d53819.woff",
+    "static/media/SplineSansMono-Medium.woff": "./static/media/SplineSansMono-Medium.9b371abc12dbe5f29562.woff",
+    "static/media/MarckScript-Regular.woff2": "./static/media/MarckScript-Regular.c582561d0f00881fafcb.woff2",
+    "static/media/SplineSansMono-Regular.woff2": "./static/media/SplineSansMono-Regular.ac1bbf2ddfd28950b94c.woff2",
+    "static/media/SplineSansMono-Bold.woff2": "./static/media/SplineSansMono-Bold.60d586deaa27108daba3.woff2",
+    "static/media/SplineSansMono-Medium.woff2": "./static/media/SplineSansMono-Medium.7a7eff92c1a08f195b93.woff2",
+    "static/media/done.png": "./static/media/done.ddac177bcfc2739d7f5b.png",
+    "index.html": "./index.html",
+    "main.bb9aca48.css.map": "./static/css/main.bb9aca48.css.map",
+    "main.dea16fe8.js.map": "./static/js/main.dea16fe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb9aca48.css",
+    "static/js/main.dea16fe8.js"
+  ]
+}
