@@ -1,0 +1,18 @@
+.navbar {
+	padding: 3px 0;
+	:global {
+		.logo {
+			display: flex;
+			align-items: center;
+			img {
+				width: 4vw;
+			}
+		}
+
+		.action__buttons {
+			& > * {
+				margin: 0 10px;
+			}
+		}
+	}
+}

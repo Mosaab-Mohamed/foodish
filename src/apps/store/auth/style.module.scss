@@ -1,0 +1,37 @@
+@import "shared/styles/variables.scss";
+
+.auth__page {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	:global {
+		.auth__box {
+			position: relative;
+			width: 90vw;
+			max-height: 90vh;
+			padding: 15px 0;
+			overflow: hidden;
+			border-radius: 50px;
+			background-color: #f6f6f6;
+			box-shadow: 3px 6px 8px #e1e1e1;
+			.auth__banner {
+				text-align: center;
+				.logo {
+					width: 80px;
+				}
+				.banner {
+					width: 85vh;
+				}
+			}
+			.form__switch {
+				display: flex;
+				align-items: center;
+				justify-content: flex-end;
+				position: absolute;
+				top: 20px;
+				right: 20px;
+			}
+		}
+	}
+}

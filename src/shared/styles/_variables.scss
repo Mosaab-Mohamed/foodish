@@ -1,0 +1,9 @@
+$primary: #aa081c;
+
+@mixin directed-prop($ltr-property, $rtl-property, $value) {
+	#{$ltr-property}: $value;
+
+	[dir="rtl"] & {
+		#{$rtl-property}: $value;
+	}
+}

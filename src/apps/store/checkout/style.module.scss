@@ -1,0 +1,12 @@
+.checkout {
+	:global {
+		.items_table {
+			.MuiTableCell-head {
+				font-weight: bold;
+			}
+			.MuiTableCell-root {
+				text-align: center;
+			}
+		}
+	}
+}

@@ -1,0 +1,66 @@
+@import "shared/styles/variables";
+
+.orders {
+	:global {
+		.banner {
+			height: 70vh;
+			background-size: cover;
+			background-position: center;
+			background-color: #00000097;
+			background-blend-mode: multiply;
+			.banner_text {
+				position: absolute;
+				left: 50%;
+				top: 45%;
+				transform: translate(-50%, -50%);
+				color: white;
+			}
+		}
+		.order_card {
+			.boxed_line {
+				padding: 15px;
+				display: flex;
+				justify-content: space-between;
+				border-bottom: 1px solid #dad8d8;
+			}
+		}
+	}
+}
+
+.view_order {
+	:global {
+		.MuiStepLabel-root {
+			.step_icon {
+				width: 120px;
+				height: 120px;
+				img {
+					width: 100%;
+					height: 100%;
+					object-fit: contain;
+				}
+				&.completed {
+					width: 80px;
+				}
+			}
+		}
+		.MuiStepConnector-root {
+			top: 60px;
+			left: calc(-50% + 60px);
+			right: calc(50% + 60px);
+			&.Mui-active,
+			&.Mui-completed {
+				.MuiStepConnector-line {
+					border-color: $primary;
+				}
+			}
+		}
+		.items_table {
+			.MuiTableCell-head {
+				font-weight: bold;
+			}
+			.MuiTableCell-root {
+				text-align: center;
+			}
+		}
+	}
+}
