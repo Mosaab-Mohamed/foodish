@@ -77,11 +77,11 @@ export default function ProfileMenu() {
 						divider
 					/>
 				</Link>
-				<MenuItem
+				{/* <MenuItem
 					icon={<Language fontSize="small" />}
 					text="lng"
 					onClick={changeLanguage}
-				/>
+				/> */}
 				<MenuItem
 					icon={<Logout fontSize="small" />}
 					text="logout"
